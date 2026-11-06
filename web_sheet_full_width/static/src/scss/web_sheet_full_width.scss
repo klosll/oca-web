@@ -1,0 +1,14 @@
+.o_form_view {
+    // Since 17.0 the max-width constraint moved from .o_form_sheet to
+    // .o_form_sheet_bg, so both must be overridden.
+    .o_form_sheet_bg,
+    .o_form_sheet_bg .o_form_sheet {
+        max-width: none !important;
+        width: auto !important;
+    }
+    // Since 17.0 the chatter container class is .o-mail-ChatterContainer
+    // (mail module), formerly .o_FormRenderer_chatterContainer.
+    .o-mail-ChatterContainer {
+        max-width: none;
+    }
+}
