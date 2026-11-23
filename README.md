@@ -46,6 +46,7 @@ addon | version | maintainers | summary
 [web_loading_block_ui](web_loading_block_ui/) | 18.0.1.0.0 |  | Block the screen with a centered loading overlay while requests are pending
 [web_m2x_options](web_m2x_options/) | 18.0.1.0.3 |  | web_m2x_options
 [web_m2x_options_manager](web_m2x_options_manager/) | 18.0.1.0.0 |  | Adds an interface to manage the "Create" and "Create and Edit" options for specific models and fields.
+[web_navbar_light](web_navbar_light/) | 18.0.1.0.0 | <a href='https://github.com/smaddlsoft'><img src='https://github.com/smaddlsoft.png' width='32' height='32' style='border-radius:50%;' alt='smaddlsoft'/></a> | Light main navbar for the backend
 [web_no_bubble](web_no_bubble/) | 18.0.1.0.0 |  | Remove the bubbles from the web interface
 [web_notify](web_notify/) | 18.0.1.1.2 |  | Send notification messages to user
 [web_notify_channel_message](web_notify_channel_message/) | 18.0.1.0.1 |  | Send an instant notification to channel users when a new message is posted
@@ -56,7 +57,7 @@ addon | version | maintainers | summary
 [web_quick_start_screen](web_quick_start_screen/) | 18.0.1.0.0 |  | Configurable start screen for quick actions
 [web_refresher](web_refresher/) | 18.0.1.0.1 |  | Web Refresher
 [web_remember_tree_column_width](web_remember_tree_column_width/) | 18.0.1.0.2 | <a href='https://github.com/frahikLV'><img src='https://github.com/frahikLV.png' width='32' height='32' style='border-radius:50%;' alt='frahikLV'/></a> <a href='https://github.com/luisg123v'><img src='https://github.com/luisg123v.png' width='32' height='32' style='border-radius:50%;' alt='luisg123v'/></a> <a href='https://github.com/cuongnmtm'><img src='https://github.com/cuongnmtm.png' width='32' height='32' style='border-radius:50%;' alt='cuongnmtm'/></a> | Remember the tree columns' widths across sessions.
-[web_responsive](web_responsive/) | 18.0.1.0.10 | <a href='https://github.com/Tardo'><img src='https://github.com/Tardo.png' width='32' height='32' style='border-radius:50%;' alt='Tardo'/></a> <a href='https://github.com/SplashS'><img src='https://github.com/SplashS.png' width='32' height='32' style='border-radius:50%;' alt='SplashS'/></a> | Responsive web client, community-supported
+[web_responsive](web_responsive/) | 18.0.1.0.11 | <a href='https://github.com/Tardo'><img src='https://github.com/Tardo.png' width='32' height='32' style='border-radius:50%;' alt='Tardo'/></a> <a href='https://github.com/SplashS'><img src='https://github.com/SplashS.png' width='32' height='32' style='border-radius:50%;' alt='SplashS'/></a> | Responsive web client, community-supported
 [web_responsive_company_color](web_responsive_company_color/) | 18.0.1.0.0 |  | Styling hooks for web_responsive elements
 [web_save_discard_button](web_save_discard_button/) | 18.0.1.0.1 | <a href='https://github.com/synconics'><img src='https://github.com/synconics.png' width='32' height='32' style='border-radius:50%;' alt='synconics'/></a> | Save & Discard Buttons
 [web_search_with_and](web_search_with_and/) | 18.0.1.0.1 |  | Use AND conditions on omnibar search
